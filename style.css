@@ -13,10 +13,25 @@ h2 {
 }
 .bannerd {
   display: flex;
+  margin: 5%;
 }
 .half-width {
-  width: 50%;
+  width: 60%;
 }
-.half-width img {
+.half-add {
+  width: 40%;
+}
+.half-add img {
   width: 80%;
+}
+.link-added {
+  text-decoration: none;
+  background-image: linear-gradient(gold, red);
+  padding: 10px 40px;
+  color: white;
+  font-weight: 700;
+  border-radius: 5%;
+}
+.space {
+  margin-top: 5%;
 }
