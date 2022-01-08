@@ -11,3 +11,12 @@ h2 {
   color: hotpink;
   font-size: 50px;
 }
+.bannerd {
+  display: flex;
+}
+.half-width {
+  width: 50%;
+}
+.half-width img {
+  width: 80%;
+}
